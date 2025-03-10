@@ -1,0 +1,9 @@
+.entry RESULT
+.extern A
+.extern B
+;this is a comment line that should be ignored
+RESULT: .data 0, -1, +1, -2, 2
+mov RESULT, A
+add RESULT, B
+prn RESULT
+stop

@@ -1,0 +1,8 @@
+MAIN:	sub *r3, *r4
+		mov *r3, *r4
+		add *r3, *r4
+		prn STRING
+		.data 1, 2, 3, 4
+STRING: .string "myString"
+		mov *r4, *r3
+		stop
