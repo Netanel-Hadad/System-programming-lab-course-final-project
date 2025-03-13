@@ -1,5 +1,9 @@
 # System-programming-lab-course-final-project
-System programming lab course final project, grade 96
+System programming lab course final project, semester 2024b.
+
+Assembler machine written in C language, coverting assembly code file to machine code.
+
+Project grade 96.
 
 # Project overview:
 This program is divided into 4 major stages, which in the end of them, an '.as' file is converted
