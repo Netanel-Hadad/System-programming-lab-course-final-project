@@ -1,5 +1,5 @@
 # System-programming-lab-course-final-project
-System programming lab course final project, semester 2024b.
+System programming lab course final project, semester 2024b, The Open University.
 
 Assembler machine written in C language, coverting assembly code file to machine code.
 
@@ -45,10 +45,8 @@ Input file (.as file):
 
 ![Screenshot 2025-03-08 214819](https://github.com/user-attachments/assets/0d53e8f2-6164-444f-aa2d-c8d622366978)
 
-Output files (.ext, .ent and .ob files):
-
-![Screenshot 2025-03-08 215122](https://github.com/user-attachments/assets/c61768b0-258b-4875-9522-970835ca2fd3)
-
-![Screenshot 2025-03-08 215110](https://github.com/user-attachments/assets/cebc4efa-598a-4537-af9a-52a13f44bb18)
+Output files (.ob, .ext and .ent files):
 
 ![Screenshot 2025-03-08 214835](https://github.com/user-attachments/assets/af135513-3158-4371-b7bb-80e11371536a)
+![Screenshot 2025-03-08 215122](https://github.com/user-attachments/assets/c61768b0-258b-4875-9522-970835ca2fd3)
+![Screenshot 2025-03-08 215110](https://github.com/user-attachments/assets/cebc4efa-598a-4537-af9a-52a13f44bb18)
